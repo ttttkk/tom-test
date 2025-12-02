@@ -1,0 +1,5 @@
+{
+  "name": "YenLink - JPY to HKD Converter",
+  "description": "A real-time currency converter for Japanese Yen to Hong Kong Dollar, powered by Gemini AI with live search data and historical trends.",
+  "requestFramePermissions": []
+}
